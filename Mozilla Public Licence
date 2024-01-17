@@ -3,3 +3,4 @@ Mozilla Public Licence
 Volbnejsi nez GPL
 GPL neni kompatibilni s MPL
 program pod MPL lze kombinovat s nesvobodným softwarem, pouze převzatá část musí nadále splňovat podmínky MPL
+Příjemci mohou kombinovat licencovaný zdrojový kód s jinými soubory pod jinou, dokonce i proprietární licencí, čímž vytvoří "větší dílo", které může být distribuováno za jakýchkoli podmínek, ale zdrojové soubory kryté MPL musí být opět volně dostupné.
