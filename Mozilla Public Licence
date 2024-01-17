@@ -1,7 +1,12 @@
 Mozilla Public Licence
 
 Svobodná a open-source slabá copyleftová licence
+Aktuální verze 2.0 je z roku 2012
 MPL dela kompromis mezi licencemi MIT nebo BSD, které dovolují, aby všechna odvozená díla byla znovu licencována jako proprietární, a GPL, která vyžaduje, aby odvozené dílo jako celek bylo licencováno pod GPL. 
-GPL neni kompatibilni s MPL
 Lze kombinovat licencovaný zdrojový kód s jinými soubory pod jinou, dokonce i proprietární (software s uzavřeným kódem) licencí, čímž vytvoří "větší dílo", které může být distribuováno za jakýchkoli podmínek, ale zdrojové soubory kryté MPL musí být opět volně dostupné.
 Nové soubory nebo úpravy existující, konzistentně licencované oblasti kódu by měly být pod stejnou licencí jako existující kód.
+
+
+Svobodná a open-source slabá copyleftová licence 
+program pod MPL lze kombinovat s nesvobodným softwarem, pouze převzatá část musí nadále splňovat podmínky MPL
+u kombinovani zdrojové soubory kryté MPL musí být opět volně dostupné.
